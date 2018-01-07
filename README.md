@@ -1,3 +1,3 @@
 # IIIT-K placement portal website
 
-link to the webiste : https://www.tnp-iiitk.com
+link to the webiste : www.tnp-iiitk.com
